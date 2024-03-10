@@ -36,6 +36,6 @@ I'm Mathematics-Computer Science major at UC San Diego with a strong passion for
 🧮 Mathematics: Calculus, Vecter Calculus, Linear Algebra, Differential Equations, Mathematical Reasoning, Modern Algebra, Descrete Math & Graph Theory, Introduction to Probability\
 📊 Data Science: Principles of Data Science
 
-### Shoreline Community College
+## Shoreline Community College
 
 **A.A. Computer Science _(Apr. 2020 - Aug. 2023)_**
