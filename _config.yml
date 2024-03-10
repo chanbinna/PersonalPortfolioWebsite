@@ -21,12 +21,12 @@ repository: "chanbinna/chanbinna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.JPG"
+  avatar: "profile.png"
   name: "Chanbin Na"
   pronouns: "he/him"
   bio: "🧑🏻‍💻 Software Engineer"
   location: "San Diego, CA"
-  employer: "University of California San Diego"
+  employer: "UC San Diego"
   uri: # URL
   email: "chna@ucsd.edu"
 
@@ -56,7 +56,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: "https://www.linkedin.com/in/chanbin-na/" # Username
+  linkedin: "chanbin-na/" # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username
