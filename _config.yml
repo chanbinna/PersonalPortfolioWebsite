@@ -12,7 +12,7 @@ title: "Chanbin's Homepage"
 title_separator: "-"
 name: &name "Chanbin Na"
 description: &description "personal description"
-url: https://chanbinna.github.io/chanbinna/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://chanbinna.github.io/chanbinna # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
 repository: "chanbinna/chanbinna.github.io"
 
