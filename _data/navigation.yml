@@ -1,13 +1,7 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/Chanbin_Na___Software_Engineer.pdf
 
   - title: "Projects"
-    url: /portfolio/
-
-  - title: "Blog Posts"
-    url: /year-archive/
-
-  - title: "Guide"
-    url: /markdown/
+    url: /projects/
