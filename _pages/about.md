@@ -35,3 +35,7 @@ B.S. Mathematics-Computer Science, Minor Data Science _(Jun. 2025)_\
 💻 Computer Science: Intro to Programming, Basic Data Structure & OO Design, Software Tools & Techniques Lab, Data Structure, Engineering Computation(C)\
 🧮 Mathematics: Calculus, Vecter Calculus, Linear Algebra, Differential Equations, Mathematical Reasoning, Modern Algebra, Descrete Math & Graph Theory, Introduction to Probability\
 📊 Data Science: Principles of Data Science
+
+### Shoreline Community College
+
+A.A. Computer Science _(Apr. 2020 - Aug. 2023)_
