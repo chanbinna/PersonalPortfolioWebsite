@@ -21,7 +21,7 @@ repository: "chanbinna/chanbinna.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar: "profile.png"
+  avatar: "Profile.png"
   name: "Chanbin Na"
   pronouns: "he/him"
   bio: "🧑🏻‍💻 Software Engineer"
