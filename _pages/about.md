@@ -32,9 +32,9 @@ I'm Mathematics-Computer Science major at UC San Diego with a strong passion for
 ## University of California San Diego
 
 **B.S. Mathematics-Computer Science, Minor Data Science _(Jun. 2025)_** \
-💻 Computer Science: Intro to Programming, Basic Data Structure & OO Design, Software Tools & Techniques Lab, Data Structure, Engineering Computation(C)\
+💻 Computer Science: Intro to Programming (Java), Basic Data Structure & OO Design, Software Tools & Techniques Lab, Data Structure, Engineering Computation (C)\
 🧮 Mathematics: Calculus, Vecter Calculus, Linear Algebra, Differential Equations, Mathematical Reasoning, Modern Algebra, Descrete Math & Graph Theory, Introduction to Probability\
-📊 Data Science: Principles of Data Science
+📊 Data Science: Principles of Data Science (Python)
 
 ## Shoreline Community College
 
